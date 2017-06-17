@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "electron": "^1.6.11",
+    "electron-packager": "^8.7.1"
+  },
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager ./ FX --platform darwin --out ~/Desktop/FXCalendar --electron-version 1.6.11 --overwrite --icon=./static/img/app.icns"
+  },
+  "name": "your-app",
+  "version": "0.1.0",
+  "main": "main.js"
+}
