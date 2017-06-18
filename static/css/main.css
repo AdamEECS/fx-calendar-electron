@@ -1,17 +1,13 @@
 /*    ---------外汇新闻日历css-----------    */
-body {
-    padding: 20px;
-}
+
 
 .event-item {
-    padding-bottom: 10px;
-    padding-top:10px;
+    padding:10px 15px 10px 15px;
     border-bottom: 1px solid lightgrey;
 }
 
 .event-title {
-    padding-bottom: 10px;
-    padding-top:10px;
+    padding:10px 15px 10px 15px;
     border-bottom: 2px solid lightgrey;
     color: grey;
 }
